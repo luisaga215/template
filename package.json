@@ -1,0 +1,27 @@
+{
+  "name": "dentalgo_sistema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "node-sass scripts/sass/main.scss scripts/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisaga215/dentalgo_sistema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisaga215/dentalgo_sistema/issues"
+  },
+  "homepage": "https://github.com/luisaga215/dentalgo_sistema#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
