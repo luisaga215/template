@@ -1,5 +1,5 @@
 {
-  "name": "dentalgo_sistema",
+  "name": "template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luisaga215/dentalgo_sistema.git"
+    "url": "git+https://github.com/luisaga215/template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luisaga215/dentalgo_sistema/issues"
+    "url": "https://github.com/luisaga215/template/issues"
   },
-  "homepage": "https://github.com/luisaga215/dentalgo_sistema#readme",
+  "homepage": "https://github.com/luisaga215/template#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
