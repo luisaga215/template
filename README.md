@@ -1,5 +1,5 @@
 # template
 
-HTML, JS, SCSS and NODEjs template
+HTML, JS, SCSS and Node.js template
 
 
