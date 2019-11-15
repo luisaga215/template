@@ -1,3 +1,5 @@
-# dentalgo_sistema
+# template
 
-Sistema de administracion para consultorio dental.
+HTML, JS, SCSS and NODEjs template
+
+
